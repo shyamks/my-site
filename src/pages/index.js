@@ -36,8 +36,8 @@ const IndexPage = () => (
     <ImageLayout>
       <Image/>
     </ImageLayout>
-    <p>I'm Shyam. I <a href="https://www.linkedin.com/in/meghashyam-kodmad-b7559510b/">work</a> as a Software Engineer at <a href="http://www.liftoffllc.com">
-        Liftoff LLC</a>, mostly React and Angular2+. I'm also into <a href="https://www.arsenal.com">football</a>(soccer for some people)</p>
+    <p>I'm Shyam. Previously, Engineer at <a href="https://www.quikr.com">Quikr</a> and <a href="http://www.liftoffllc.com">
+        Liftoff LLC</a>, drawn towards Javascript. I'm mostly Freelancing and doing what i love.</p>
     <MediaLayout>
       <MediaButton>
         <a href="https://github.com/shyamks" target="_blank">
